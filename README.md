@@ -28,7 +28,7 @@ Please look for the jupyter notebook code in above folder -
 
 ![Wave Packet Evolution](assets/wavepacket.png)
 
-Gaussian wavepacket simulation 
+Gaussian wavepacket simulation ( to see simulation use spyder instead of jupyter)
 
 ## Simulation
 
