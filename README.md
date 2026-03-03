@@ -1,10 +1,10 @@
 # Time-evolution-of-gaussian-wavepacket
 
-Aim
+## Aim
 
 To numerically solve the Time-Dependent Schrödinger Equation (TDSE) and simulate the time evolution of a Gaussian wave packet confined inside an infinite potential well, using the Crank–Nicolson implicit scheme.
 
-Physical Model
+## Physical Model
 
 The Schrödinger equation is given by $i \hbar \frac{\partial \psi}{\partial t}=-\frac{\hbar^2}{2m} \frac{\partial^2 \psi}{\partial x^2}+ V(x)\psi$​
 
