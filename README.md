@@ -26,4 +26,11 @@ Where:
 Please look for the jupyter notebook code in above folder -
 ## Simulation Snapshot
 
-![Wave Packet Evolution](assets/wavepacket.pn)
+![Wave Packet Evolution](assets/wavepacket.png)
+
+Gaussian wavepacket simulation 
+
+## Simulation
+
+![Wave Packet Evolution](assets/Gaussian_wavepacket_animation.gif)
+
