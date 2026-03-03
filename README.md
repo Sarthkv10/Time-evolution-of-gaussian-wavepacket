@@ -31,6 +31,6 @@ Please look for the jupyter notebook code in above folder -
 Gaussian wavepacket simulation 
 
 ## Simulation
-![alternative text]()
+
 ![Wave Packet Evolution](assets/animation.gif)
 
