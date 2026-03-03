@@ -32,6 +32,5 @@ Gaussian wavepacket simulation
 
 ## Simulation
 
-
 ![Wave Packet Evolution](assets/animation.gif)
 
