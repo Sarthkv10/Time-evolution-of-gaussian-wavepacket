@@ -23,7 +23,8 @@ Where:
 - $\sigma_0$ is the initial width  
 - $k_0$ is the initial wave number  
 
-Please look for the jupyter notebook code in above folder -
+Please look for the jupyter notebook code in above folder or click - https://github.com/Sarthkv10/Time-evolution-of-gaussian-wavepacket/blob/main/Time%20Evolution%20of%20Gaussian%20Wavepacket%20(1).ipynb
+
 ## Simulation Snapshot
 
 ![Wave Packet Evolution](assets/wavepacket.png)
