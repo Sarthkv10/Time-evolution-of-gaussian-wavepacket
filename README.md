@@ -22,3 +22,8 @@ Where:
 - $x_0$ is the initial center of the wave packet  
 - $\sigma_0$ is the initial width  
 - $k_0$ is the initial wave number  
+
+Please look for the jupyter notebook code in above folder -
+## Simulation Snapshot
+
+![Wave Packet Evolution](assets/wavepacket.pn)
