@@ -34,3 +34,9 @@ Gaussian wavepacket simulation
 
 ![Wave Packet Evolution](assets/animation.gif)
 
+## Expected Observations
+: • Reflection and Interference: As the wave packet reaches the walls, it reflects back, causing interference with itself.
+
+• Standing Wave Patterns: Over time, interference can create patterns reminiscent ofstanding waves, similar to eigenstates of the well.
+
+• Probability Density Distribution: Observe the distribution of $|ψ(x,t)|^2$ as it fluctu-ates with time, eventually forming quasi-stable interference patterns.
